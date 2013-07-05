@@ -6,6 +6,7 @@ CSS Batch is an open source Rewrite of the Counter Strike Game in Batch for Micr
 It was written 2008-2009 during a time where I unfortunately could only use WIndows and get extreme bored....
 
 Note: Most of the UI is in German, do not wonder.
+
 Note²: My Batch Knowledge are and were very limited so do not be surprised about the miserable and poor "code".
 
 Warning!
