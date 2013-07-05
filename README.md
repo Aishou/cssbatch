@@ -9,9 +9,8 @@ Note: Most of the UI is in German, do not wonder.
 
 Note²: My Batch Knowledge are and were very limited so do not be surprised about the miserable and poor "code".
 
-How to get CSS Batch?
+Get CSS Batch
 ------------------------
-git:
 git clone https://github.com/Aishou/cssbatch.git
 
 Warning!
