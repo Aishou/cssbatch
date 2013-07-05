@@ -15,7 +15,7 @@ This application was untestet since 2009, i'm not responsible for any damage cau
 
 License
 ------------------------
-    Copyright (c) 2012, A Metaphysical Drama
+    Copyright (c) 2008-2013, Aishou <kaito.linux@gmail.com>
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
