@@ -1,7 +1,7 @@
 CSS Batch
 ===============
 
-CSS Batch is an open source Rewrite of the Counter Strike Game in Batch for Microsoft Windows.
+CSS Batch is an open source Rewrite of the Game Counter Strike in Batch for Microsoft Windows.
 
 It was written 2008-2009 during a time where I unfortunately could only use WIndows and get extreme bored....
 
