@@ -13,6 +13,8 @@ Get CSS Batch
 ------------------------
 git clone https://github.com/Aishou/cssbatch.git
 
+or just dowload here ;)
+
 Warning!
 ------------------------
 This application was untestet since 2009, i'm not responsible for any damage caused by the use of this application.
